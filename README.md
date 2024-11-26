@@ -18,7 +18,7 @@ Para dar solución a los primeros dos problemas, una tarjeta Arduino y un par de
 
 El circuito del dispositivo tiene un sensor de sonido KY-038 para detectar los niveles de volumen de su entorno, y cuando se supera un límite considerado como el máximo de ruido permitido, se activa un LED y un Buzzer para hacer saber que se debe guardar silencio.
 
-<img src="https://raw.githubusercontent.com/Cristian-Mancera/Sistemas-Digitales/refs/heads/main/imagenes/1/img%202.jfif" alt="drawing" height="400"/>       <img src="https://raw.githubusercontent.com/Cristian-Mancera/Sistemas-Digitales/refs/heads/main/imagenes/1/img%207.jfif" alt="drawing" height="400"/>
+<img src="https://cdn.discordapp.com/attachments/1301778066447536148/1310813471868456982/image.jpg?ex=674695ad&is=6745442d&hm=a5f54861e5143a751bbb81943959f4c583fd6770a567864b7f2e077da2252f8a&" alt="drawing" height="400"/><img src="https://cdn.discordapp.com/attachments/1301778066447536148/1310813456147943475/image.jpg?ex=674695a9&is=67454429&hm=da33914c022ccf72b9929baf636436fa69482ef3f0400908d4e9f8754fe18f6b&" alt="drawing" height="400"/>
 
 ## Simulaciones
 Las simulaciones se realizaron principalmente con Wokwi, pues es, según su propio eslogan "el simulador de ESP32 más avanzado del mundo", y, en general, funcionó bien para realizar las pruebas antes de llevar los circuitos a la realidad. 
@@ -28,6 +28,11 @@ A través de este simulador se realizaron pruebas para probar el funcionamiento 
 Dado que en Wokwi no está disponible un sensor de sonido, se utilizó un potenciómetro para simular la señal que puede emitir el sensor a través de su salida análoga. Es decir, que, en el circuito real el potenciómetro sería reemplazado por el sensor de sonido que permite conocer cuál es el nivel de ruido del entorno en que se ubica, lo que es útil para determinar cuánto ruido es suficientemente alto para activar el led, informando que se ha superado el límite de ruido. 
 
 [Proyecto de Wokwi con la simulación del dispositivo](https://wokwi.com/projects/413104915306254337)
+
+## Información ESP32 
+
+<img src="https://cdn.discordapp.com/attachments/1301778066447536148/1310807550622564483/0daed74d-859d-4e43-881f-1e6f70f9f97c.jpg?ex=67469029&is=67453ea9&hm=720dbbb4c27080c4938ac2e65bb409687038a20a38115f27bc8f70ac1abb34da&" alt="drawing" height="400"/><img 
+
 
 ## Conclusiones
 - Existen una gran variedad de sensores y también son varias las formas de comunicar la información que estos recolectan hacia diferentes destinos, como servidores web, o incluso otros microcontroladores que estén controlando más sensores.
