@@ -100,8 +100,10 @@ Este proceso de simulación y pruebas asegura que el diseño propuesto cumpla co
 
 [**Imagen 3:** Prototipo final entregado]  
 <video width="640" height="360" controls>
-  <source src="media/PROTOTIPO_FINAL.mov" type="video/quicktime">
+  <source src="Media/PROTOTIPO_FINAL.mp4" type="video/mp4">
   Tu navegador no soporta el elemento de video.
 </video>
+
+
 
 
