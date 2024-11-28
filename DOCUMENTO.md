@@ -98,9 +98,8 @@ Este proceso de simulación y pruebas asegura que el diseño propuesto cumpla co
 
 10. **Contribución al bienestar:** La moderación del ruido en espacios compartidos mejora significativamente la experiencia de los usuarios, impactando positivamente en su bienestar emocional y su productividad.
 
-[**Imagen 3:** Prototipo final entregado]  
-[![Prototipo Final](https://i.vimeocdn.com/video/1034083948.jpg)](https://vimeo.com/1034083948?share=copy)
-
+[**Imagen 3:** Prototipo final entregado - Haz clic en la imagen para ver el video]  
+[![Prototipo Final](https://cdn.discordapp.com/attachments/1301778066447536148/1311551529185972325/image.png?ex=6749450c&is=6747f38c&hm=5a3d3328497e7cf1f84fdde037698956db28c19d6793267f63bcd03c7b79fc14&)](https://vimeo.com/1034083948?share=copy)
 
 
 
