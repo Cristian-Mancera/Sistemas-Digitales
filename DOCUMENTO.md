@@ -73,7 +73,7 @@ Este proceso de simulación y pruebas asegura que el diseño propuesto cumpla co
 
 ## Información ESP32 
 
-<img src="https://cdn.discordapp.com/attachments/1301778066447536148/1310807550622564483/0daed74d-859d-4e43-881f-1e6f70f9f97c.jpg?ex=67469029&is=67453ea9&hm=720dbbb4c27080c4938ac2e65bb409687038a20a38115f27bc8f70ac1abb34da&" alt="drawing" height="400"/><img 
+<img src="https://cdn.discordapp.com/attachments/1301778066447536148/1310807550622564483/0daed74d-859d-4e43-881f-1e6f70f9f97c.jpg?ex=67469029&is=67453ea9&hm=720dbbb4c27080c4938ac2e65bb409687038a20a38115f27bc8f70ac1abb34da&" alt="drawing" height="400"/>
 
 
 ## Conclusiones  
